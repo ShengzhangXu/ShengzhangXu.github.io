@@ -1,7 +1,5 @@
 
 
-[[Shengzhang Xu]]
-
 He is currently a senior at Southern University of Science and Technology.
 
 #### Contact
