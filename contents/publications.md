@@ -1,16 +1,21 @@
-#### Submitted
+#### Research Experiences
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+1. **Humanoid Control Research, Supervised by Prof. He Kong SUSTech, Sep.2025-present**
+• **My Focus**: Developing whole-body trajectory tracking for High Torque Mini Pi+ humanoid robot using Physics-Based Humanoid Control (PBHC), achieving high-fidelity motion reproduction and enhanced disturbance rejection capabilities;
+• **Lab Research**: Implementing AMP-based adversarial motion priors for Unitree G1 and AgiBot A2 humanoids, enabling natural bipedal walking and running gaits through imitation learning from human motion capture data;
+• **Lab Research**: Conducting blind locomotion research over challenging terrains including uneven surfaces and stair climbing, utilizing proprioceptive sensing and robust control policies without external perception.
+[[Code]] [[Picture]]
 
-#### Published
+2. **HumanUp Reproduction,Independent Research,Jul.2025**
+• Reproduced the paper, Learning Getting-Up Policies for Real-World Humanoid Robots;
+• Migrated the original IsaacGym training environment to IsaacLab DirectRL, introducing curriculum learning with standing probability and pulling forces to enable successful humanoid stand-up;
+• Improved trajectory following by replacing early termination with height-based rewards and adding proportional pulling-force curriculum, achieving gradual upright motion;
+• Converted environment to ManagerBasedRL structure and retrained in UnitreeLab, validating sim-to-sim transfer with successful stand-up in MuJoCo simulation.
+[[Code]] [[Picture]]
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+3. **Relationship Between Mars Rover Sinking and Slip Rates,Supervised by Prof. Zhenzhong Jia SUSTech,Jun.2024-Sept.2024**
+• Designed a single-wheeled Mars rover powered by two motors. One motor is used to drive the rotation of the wheel, while the other motor controls the rover’s horizontal movement along a straight track;
+• Tested the Mars rover on smooth sand and successfully changed the slip rate by adjusting the moving speed of the track with the wheel speed;
+• Designed several experiments, including using a cable sensor to measure the actual vertical sinking distance of the wheel, as well as capturing point cloud data of the wheel’s contact area with the sand using a depth camera mounted on the rover to calculate the sinking distance.
+[[Code]] [[Picture]] 
 
