@@ -1,12 +1,12 @@
 
 
-[![Shengzhang Xu]
+[[Shengzhang Xu]]
 
 He is currently a senior at Southern University of Science and Technology.
 
 #### Contact
 
-Email:jasperhsu928[at]hotmail.com
+Email:jasperhsu928@hotmail.com
 
 #### Education
 BEng, Robotics Engineering ,Southern University of Science and Technology of China ,Sep.2022-Jun.2026(expected).\
