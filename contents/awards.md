@@ -1,16 +1,6 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Awarded Merit Student in 2022-2023.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Awarded Merit Student in 2023-2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Awarded with the prize for Best Design Award in Final Competition of 'Da Vinci Challenge Camp' in 2023.
