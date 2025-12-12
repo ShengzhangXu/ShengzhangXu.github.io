@@ -19,11 +19,12 @@
     padding: 10rem 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    height: 40rem;
 }
 
 .top-section h2 {
     font-weight: 400;
+    color: #fff; /* 确保文字为白色，提升对比度 */
 }
 
 .top-section .top-section-content {
@@ -38,8 +39,9 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.2); /* 降低不透明度，背景更亮 */
 }
+
 
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;

@@ -10,6 +10,16 @@ Email:jasperhsu928@hotmail.com
 BEng, Robotics Engineering ,Southern University of Science and Technology of China ,Sep.2022-Jun.2026(expected).\
 Undergraduate Student Concurrent Enrollment Program,August 2024-Jan 2025,University of California, Berkeley Berkeley, U.S.
 
+#### Selected Courses
+
+- **SUSTech**
+
+   Signals and Systems, Theoretical Mechanics, Material Mechanics, Control Engineering  
+   Robot Modeling & Control, Probability and Statistics, Data Structure and Algorithm; Fundamentals of Machine Learning
+
+- **UCB**
+
+  Mechatronics Design, Robotic Locomotion, Advanced,Control Design I, Advanced Control Systems
 
 #### Research Interests
 Reinforcement learning; humanoid robot control;

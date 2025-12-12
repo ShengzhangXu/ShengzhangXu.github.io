@@ -1,8 +1,7 @@
-#### Challenge
-
 **My Musical Journey**:My musical journey  bring me  this perspective, the resilience to face steep challenges, the wisdom to value  collaboration over competition, and the adaptive leadership to put a team's needs first.
-[[PDF]](https://shengzhangxu.github.io/static/assets/my_musical_journey.pdf) 
-[[BiliBili]](https://space.bilibili.com/59770881?spm_id_from=333.337.0.0)
+<a href="../static/assets/doc/my_musical_journey.pdf" target="_blank">PDF</a>
+<a href="https://space.bilibili.com/59770881?spm_id_from=333.337.0.0" target="_blank">BiliBili</a>
+<a href="../static/assets/video/ucb.mp4" target="_blank">Video</a>
 
 
 
