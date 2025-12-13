@@ -4,4 +4,5 @@
 
 • Studied robot control methods and mainstream motion imitation  algorithms (BeyondMinic, PBHC);
 
-• Gained insights into the development progress and innovations of domestic humanoid robot manufacturers.<a href="../static/assets/video/robotic_dance_of_cctv.mp4" target="_blank">Video</a>
+• Gained insights into the development progress and innovations of domestic humanoid robot manufacturers.<a href="https://www.bilibili.com/video/BV1qgm9BwEAb/" target="_blank">Video</a>
+
