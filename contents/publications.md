@@ -4,7 +4,7 @@
 
 • **Lab Research**: Implementing AMP-based adversarial motion priors for Unitree G1 and AgiBot A2 humanoids, enabling natural bipedal walking and running gaits through imitation learning from human motion capture data;  
 
-• **Lab Research**: Conducting blind locomotion research over challenging terrains including uneven surfaces and stair climbing, utilizing proprioceptive sensing and robust control policies without external perception.  [[Code]]
+• **Lab Research**: Conducting blind locomotion research over challenging terrains including uneven surfaces and stair climbing, utilizing proprioceptive sensing and robust control policies without external perception. 
 
 3. **HumanUp Reproduction,Independent Research,Jul.2025**  
 
@@ -14,7 +14,7 @@
 
 • Improved trajectory following by replacing early termination with height-based rewards and adding proportional pulling-force curriculum, achieving gradual upright motion;  
 
-• Converted environment to ManagerBasedRL structure and retrained in UnitreeLab, validating sim-to-sim transfer with successful stand-up in MuJoCo simulation. [[Code]]
+• Converted environment to ManagerBasedRL structure and retrained in UnitreeLab, validating sim-to-sim transfer with successful stand-up in MuJoCo simulation.
 
 4. **Relationship Between Mars Rover Sinking and Slip Rates,Supervised by Prof. Zhenzhong Jia SUSTech,Jun.2024-Sept.2024**  
 
@@ -22,5 +22,5 @@
 
 • Tested the Mars rover on smooth sand and successfully changed the slip rate by adjusting the moving speed of the track with the wheel speed;  
 
-• Designed several experiments, including using a cable sensor to measure the actual vertical sinking distance of the wheel, as well as capturing point cloud data of the wheel’s contact area with the sand using a depth camera mounted on the rover to calculate the sinking distance.  [[Code]] 
+• Designed several experiments, including using a cable sensor to measure the actual vertical sinking distance of the wheel, as well as capturing point cloud data of the wheel’s contact area with the sand using a depth camera mounted on the rover to calculate the sinking distance. 
 
